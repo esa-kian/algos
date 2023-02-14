@@ -6,8 +6,8 @@ do
 
   touch algo${i}.py
   git add .
-  git commit -m "Do task No #$i"
+  git commit -m "Start task No #$i"
   rm algo${i}.py
   git add .
-  git commit -m "Do task No #$i"
+  git commit -m "Done task No #$i"
 done
