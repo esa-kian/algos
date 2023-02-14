@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {0..10..2}
+for i in {11..500..2}
 do
   touch algo${i}.py
   git add .
