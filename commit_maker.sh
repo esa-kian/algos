@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for i in {0..10..2}
+for i in {0..97..1}
 do
   i=$((i + 3495734))
 
