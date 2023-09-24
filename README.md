@@ -1,2 +1,2 @@
 # algopy
-Implemented Algorithms using Python
+Implemented Algorithms using PHP-Python-C++
